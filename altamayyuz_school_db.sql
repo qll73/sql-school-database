@@ -1,0 +1,1 @@
+DROP INDEX idx_student_name;
